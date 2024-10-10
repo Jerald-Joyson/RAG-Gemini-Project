@@ -1,0 +1,10 @@
+# Ignore .env files
+.env
+.env.*
+
+# Ignore cache and temporary files
+__pycache__/
+.DS_Store
+
+# Ignore Docker-related files
+data/
