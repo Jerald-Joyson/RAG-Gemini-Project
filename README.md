@@ -80,8 +80,8 @@ This project is a **Retrieval-Augmented Generation (RAG) pipeline** that uses Go
    ```
 7. **Screenshots**:
    Screenshots of the results ie, example queries and outputs.
-   
-https://github.com/user-attachments/assets/dafbc636-48c7-4905-9e06-986bdd9e0f00
-https://github.com/user-attachments/assets/59118333-5bd9-44a9-bf92-7a500dbf5996
-https://github.com/user-attachments/assets/7d76b92b-9852-44dc-8362-8ab749c3e96b
-https://github.com/user-attachments/assets/682166b8-a68d-431c-9ce6-c4a886e7d8a4
+![llm01](https://github.com/user-attachments/assets/fad0a071-064d-4e3c-a1d7-5fcd3e03eb74)
+![llm02](https://github.com/user-attachments/assets/8a911223-53a9-42cf-aa6a-52878bdcfc9a)
+![llm03](https://github.com/user-attachments/assets/cbc8212c-9680-42db-8752-1babef83c486)
+![llm04](https://github.com/user-attachments/assets/039d44c6-ffa4-48f1-ace5-dfa08d67421a)
+
