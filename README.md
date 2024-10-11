@@ -85,3 +85,5 @@ This project is a **Retrieval-Augmented Generation (RAG) pipeline** that uses Go
 ![llm03](https://github.com/user-attachments/assets/cbc8212c-9680-42db-8752-1babef83c486)
 ![llm04](https://github.com/user-attachments/assets/039d44c6-ffa4-48f1-ace5-dfa08d67421a)
 
+8. **License**:
+   This project is licensed under the MIT License.
